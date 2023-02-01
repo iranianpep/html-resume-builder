@@ -1,0 +1,54 @@
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "position": "Software Engineer",
+  "contact": {
+    "address": "Melbourne, Australia",
+    "phone": "123456789",
+    "urls": [
+      "https://linkedin.com",
+      "https://github.com"
+    ]
+  },
+  "summary": [
+    "Summy goes here"
+  ],
+  "experiences": [
+    {
+      "company": "Company 1",
+      "position": "Software Engineer",
+      "from": "Sep 2021",
+      "to": "Present",
+      "responsibilities": [
+        "Responsibility 1",
+        "Responsibility 2"
+      ]
+    },
+    {
+      "company": "Company 2",
+      "position": "Software Engineer",
+      "from": "Apr 2021",
+      "to": "Sep 2021",
+      "responsibilities": [
+        "Responsibility 1",
+        "Responsibility 2"
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "school": "School 1",
+      "qualification": "Qualification 1",
+      "location": "Melbourne, Australia",
+      "from": "2011",
+      "to": "2012"
+    },
+    {
+      "school": "School 2",
+      "qualification": "Qualification 2",
+      "location": "Melbourne, Australia",
+      "from": "2010",
+      "to": "2011"
+    }
+  ]
+}
