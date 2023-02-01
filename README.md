@@ -1,7 +1,7 @@
 # HTML Resume Builder
 
 Simple HTML resume builder if you do not like using word processors and if you
-have a developer mindset to decouple data from presentation.
+have a developer mindset to decouple data from presentation. Once you have the HTML, it can be printed as PDF.
 
 ## Requirements
 
