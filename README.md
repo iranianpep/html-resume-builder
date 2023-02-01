@@ -28,7 +28,7 @@ have a developer mindset to decouple data from presentation. Once you have the H
   `data` into the template.
 
 - Now you can copy `sample-data.json` and `sample-template.html` and modify them
-  based on your details. To generate a new resume run the following:
+  based on your details. The template uses [Bootstrap 5.2](https://getbootstrap.com/docs/5.2/getting-started/introduction/) for styling. To generate a new resume run the following:
   ```
   deno run --allow-read --allow-write src/run.ts --data=YOUR-DATA-FILE-PATH.json --template=YOUR-TEMPLATE-PATH.html
   ```
